@@ -24,3 +24,10 @@ http://127.0.0.1:8000/login
 ---
 Email:- admin@gmail.com
 Pass:- adminadmin
+
+# Project Demo Page
+
+# Demo 
+
+### Whistleblower's Main Page
+![image](https://github.com/Whistleblower-ProfessionalPractice/Whistleblower-ProfessionalPractice-Group5-Professional-Practice/blob/master/resources/images/Wshitleblower.PNG)
