@@ -31,6 +31,11 @@ Pass:- adminadmin
 
 ## Live Demonstration
 
+
+https://user-images.githubusercontent.com/52339029/160274710-d5594b6b-d878-4fa8-97a0-44b89f21228a.mp4
+
+
+
 ### 1) Whistleblower's Main Page
 ![image](https://github.com/Whistleblower-ProfessionalPractice/Whistleblower-ProfessionalPractice-Group5-Professional-Practice/blob/master/resources/images/Wshitleblower.PNG)
 
