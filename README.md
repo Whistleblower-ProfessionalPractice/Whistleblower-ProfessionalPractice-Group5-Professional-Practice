@@ -29,5 +29,11 @@ Pass:- adminadmin
 
 # Demo 
 
-### Whistleblower's Main Page
+### 1) Whistleblower's Main Page
 ![image](https://github.com/Whistleblower-ProfessionalPractice/Whistleblower-ProfessionalPractice-Group5-Professional-Practice/blob/master/resources/images/Wshitleblower.PNG)
+
+### 2) Admin Page 
+![image](https://github.com/Whistleblower-ProfessionalPractice/Whistleblower-ProfessionalPractice-Group5-Professional-Practice/blob/master/resources/images/AdminHome.PNG)
+
+### 3) View Complains Department Basis
+![image](https://github.com/Whistleblower-ProfessionalPractice/Whistleblower-ProfessionalPractice-Group5-Professional-Practice/blob/master/resources/images/AdminView.PNG)
